@@ -6,4 +6,11 @@
     </style>
 
     <style name="Theme.Project6" parent="Base.Theme.Project6" />
+
+
+    <style name="TextAppearance.Quote" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#073b4c</item>
+        <item name="android:padding">8dp</item>
+    </style>
 </resources>
